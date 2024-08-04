@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Arshad Ali👋<a href="https://github.com/aalee9263"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/aalee9263"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+DeveloperAI;Chatbot Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+<a href="https://github.com/aalee9263"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer;AI+Chatbot +Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
 🤵 Exploring Gen AI & Chatbots @ @SMIT Psc 🤖
