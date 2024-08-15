@@ -6,7 +6,7 @@
 <a href="https://github.com/aalee9263"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer;AI+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
-🤵 Exploring Gen AI & Chatbots @ @SMIT Psc 🤖
+🤵 Exploring Gen AI & Chatbots SMIT Psc 🤖
 	
 👨‍💻 Web Developer
 	
@@ -29,9 +29,6 @@
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media&token=5d196928-848c-433b-b332-c91e7714ab74">
-    </td>
     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
     </td>
