@@ -30,7 +30,7 @@
  
 <tr>
     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/javascript/javascript.svg">
     </td>
  <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
