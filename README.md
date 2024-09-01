@@ -25,10 +25,6 @@
  <td align='center' width="200">
         <img src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c">
     </td>
-
-    <td align='center' width="200">
-        <img src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c">
-    </td>
  
 </tr>
  
@@ -40,7 +36,7 @@
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2F1_44fD_VXcqw2kDWublQLONw.jpg?alt=media&token=352d5775-d1a4-4809-b40b-168a05e8b553" >
     </td>
      <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FPinecone-Primary-Logo-White.png?alt=media&token=83a42d53-6832-4da8-b5ee-db7fb310b4a7">
+        <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147721897/images/85ecfc8-5f3-86f8-5be6-cd27ff01c41_pinecone.jpeg">
     </td>    
     <td align='center'>
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
