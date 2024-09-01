@@ -6,14 +6,14 @@
 <a href="https://github.com/aalee9263"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer;AI+Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 	
 
-🤵 Exploring Gen AI & Chatbots SMIT Psc 🤖
+🤵 Gen AI & Chatbots 🤖
 	
 👨‍💻 Web Developer
 	
  
 <h2>Tech Stack</h2>
 
-<table width="100">
+<table width="100" height="80">
 <tr>
     <td align='center' width="200">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
