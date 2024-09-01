@@ -25,6 +25,10 @@
  <td align='center' width="200">
         <img src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c">
     </td>
+
+    <td align='center' width="200">
+        <img src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c">
+    </td>
  
 </tr>
  
