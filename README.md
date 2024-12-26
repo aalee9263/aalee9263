@@ -22,9 +22,7 @@
  <td align='center'>
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
     </td>
- <td align='center' width="250">
-        <img src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c">
-    </td>
+
  
 </tr>
  
