@@ -15,14 +15,16 @@
 
 <table width="100">
 <tr>
-    <td align='center'>
+    <td align='center' width="250">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
     </td>
 	
- <td align='center'>
+ <td align='center' width="250">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
     </td>
-
+ <td align='center' width="250">
+        <img src="https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?2eca201df198027c">
+    </td>
  
 </tr>
  
@@ -36,9 +38,7 @@
      <td align='center'>
         <img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147721897/images/85ecfc8-5f3-86f8-5be6-cd27ff01c41_pinecone.jpeg">
     </td>    
-    <td align='center'>
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg">
-    </td>
+   
 </tr>
 
     
